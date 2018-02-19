@@ -1,4 +1,13 @@
-Open Babel
+emscripten'd Open Babel
+===
+
+obabel.js and babel.js built using emscripten, in the `embuild` dir. I followed the instructions at [this blog post](https://baoilleach.blogspot.com/2015/02/cheminformaticsjs-open-babel.html) by Noel O'Boyle, but did not prune any of the OpenBabel plugins.
+
+
+
+
+
+Open Babel (original README)
 ----------
 
 [![GitHub release](https://img.shields.io/github/release/openbabel/openbabel.svg?maxAge=86400)](https://sourceforge.net/projects/openbabel/files/latest/download)

@@ -1,0 +1,275 @@
+The target system is: Emscripten - 1 - x86
+The host system is: Darwin - 15.6.0 - x86_64
+Determining if the include file sys/time.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dc22b/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_dc22b.dir/build.make CMakeFiles/cmTC_dc22b.dir/build
+Building C object CMakeFiles/cmTC_dc22b.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_dc22b.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_dc22b.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dc22b.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_dc22b.dir/objects1.rsp  -o cmTC_dc22b.js  
+INFO:root:generating system library: dlmalloc.bc... (this will be cached in "/Users/csvoss/.emscripten_cache/asmjs/dlmalloc.bc" for subsequent builds)
+INFO:root: - ok
+INFO:root:generating system library: libc.bc... (this will be cached in "/Users/csvoss/.emscripten_cache/asmjs/libc.bc" for subsequent builds)
+INFO:root: - ok
+
+
+Determining if the include file time.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4bead/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_4bead.dir/build.make CMakeFiles/cmTC_4bead.dir/build
+Building C object CMakeFiles/cmTC_4bead.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_4bead.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_4bead.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4bead.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_4bead.dir/objects1.rsp  -o cmTC_4bead.js  
+
+
+Determining if the include file strings.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cc42c/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_cc42c.dir/build.make CMakeFiles/cmTC_cc42c.dir/build
+Building C object CMakeFiles/cmTC_cc42c.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_cc42c.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_cc42c.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cc42c.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_cc42c.dir/objects1.rsp  -o cmTC_cc42c.js  
+
+
+Determining if the include file regex.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_77cba/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_77cba.dir/build.make CMakeFiles/cmTC_77cba.dir/build
+Building C object CMakeFiles/cmTC_77cba.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_77cba.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_77cba.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77cba.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_77cba.dir/objects1.rsp  -o cmTC_77cba.js  
+
+
+Determining if the include file sstream exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_12057/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_12057.dir/build.make CMakeFiles/cmTC_12057.dir/build
+Building CXX object CMakeFiles/cmTC_12057.dir/CheckIncludeFile.cxx.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/em++     -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_12057.dir/CheckIncludeFile.cxx.o -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTC_12057.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12057.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/em++    -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_12057.dir/objects1.rsp  -o cmTC_12057.js  
+
+
+Determining if the rint exist passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_19550/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_19550.dir/build.make CMakeFiles/cmTC_19550.dir/build
+Building C object CMakeFiles/cmTC_19550.dir/CheckSymbolExists.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_19550.dir/CheckSymbolExists.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_19550.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19550.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_19550.dir/objects1.rsp  -o cmTC_19550.js  
+
+File /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef rint
+  return ((int*)(&rint))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the snprintf exist passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d72ff/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_d72ff.dir/build.make CMakeFiles/cmTC_d72ff.dir/build
+Building C object CMakeFiles/cmTC_d72ff.dir/CheckSymbolExists.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_d72ff.dir/CheckSymbolExists.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_d72ff.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d72ff.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_d72ff.dir/objects1.rsp  -o cmTC_d72ff.js  
+
+File /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strcasecmp exist passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a2e4b/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_a2e4b.dir/build.make CMakeFiles/cmTC_a2e4b.dir/build
+Building C object CMakeFiles/cmTC_a2e4b.dir/CheckSymbolExists.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_a2e4b.dir/CheckSymbolExists.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a2e4b.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2e4b.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_a2e4b.dir/objects1.rsp  -o cmTC_a2e4b.js  
+
+File /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strcasecmp
+  return ((int*)(&strcasecmp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strncasecmp exist passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_14c04/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_14c04.dir/build.make CMakeFiles/cmTC_14c04.dir/build
+Building C object CMakeFiles/cmTC_14c04.dir/CheckSymbolExists.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_14c04.dir/CheckSymbolExists.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_14c04.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_14c04.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_14c04.dir/objects1.rsp  -o cmTC_14c04.js  
+
+File /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strncasecmp
+  return ((int*)(&strncasecmp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6e613/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_6e613.dir/build.make CMakeFiles/cmTC_6e613.dir/build
+Building C object CMakeFiles/cmTC_6e613.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_6e613.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6e613.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6e613.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_6e613.dir/objects1.rsp  -o cmTC_6e613.js  
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_894bc/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_894bc.dir/build.make CMakeFiles/cmTC_894bc.dir/build
+Building C object CMakeFiles/cmTC_894bc.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_894bc.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_894bc.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_894bc.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_894bc.dir/objects1.rsp  -o cmTC_894bc.js  
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_12e91/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_12e91.dir/build.make CMakeFiles/cmTC_12e91.dir/build
+Building C object CMakeFiles/cmTC_12e91.dir/CheckIncludeFile.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_12e91.dir/CheckIncludeFile.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_12e91.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12e91.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_12e91.dir/objects1.rsp  -o cmTC_12e91.js  
+
+
+Determining size of clock_t passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8deb6/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_8deb6.dir/build.make CMakeFiles/cmTC_8deb6.dir/build
+Building C object CMakeFiles/cmTC_8deb6.dir/CLOCK_T.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -s ERROR_ON_UNDEFINED_SYMBOLS=1   -o CMakeFiles/cmTC_8deb6.dir/CLOCK_T.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CheckTypeSize/CLOCK_T.c
+Linking C executable cmTC_8deb6.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8deb6.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -s ERROR_ON_UNDEFINED_SYMBOLS=1    @CMakeFiles/cmTC_8deb6.dir/objects1.rsp  -o cmTC_8deb6.js  
+
+
+Performing C++ SOURCE FILE Test HAVE_STD_SHARED_PTR succeeded with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ef65c/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ef65c.dir/build.make CMakeFiles/cmTC_ef65c.dir/build
+Building CXX object CMakeFiles/cmTC_ef65c.dir/src.cxx.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/em++     -DHAVE_STD_SHARED_PTR -Werror   -o CMakeFiles/cmTC_ef65c.dir/src.cxx.o -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_ef65c.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ef65c.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/em++    -DHAVE_STD_SHARED_PTR -Werror    @CMakeFiles/cmTC_ef65c.dir/objects1.rsp  -o cmTC_ef65c.js  
+INFO:root:generating system library: libcxx.a... (this will be cached in "/Users/csvoss/.emscripten_cache/asmjs/libcxx.a" for subsequent builds)
+INFO:root: - ok
+INFO:root:generating system library: libcxxabi.bc... (this will be cached in "/Users/csvoss/.emscripten_cache/asmjs/libcxxabi.bc" for subsequent builds)
+INFO:root: - ok
+
+Source file was:
+#include <memory>
+                           int main(){ std::shared_ptr<int> p; return 0; }
+Determining if the function getopt exists passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_16675/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_16675.dir/build.make CMakeFiles/cmTC_16675.dir/build
+Building C object CMakeFiles/cmTC_16675.dir/CheckFunctionExists.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -DCHECK_FUNCTION_EXISTS=getopt -Werror   -o CMakeFiles/cmTC_16675.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.6.2/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_16675.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16675.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -DCHECK_FUNCTION_EXISTS=getopt -Werror    @CMakeFiles/cmTC_16675.dir/objects1.rsp  -o cmTC_16675.js  
+[0;33mwarning:[0m unexpected number of arguments 0 in call to 'getopt', should be 3
+
+
+Determining if the pthread_create exist passed with the following output:
+Change Dir: /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fd91b/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_fd91b.dir/build.make CMakeFiles/cmTC_fd91b.dir/build
+Building C object CMakeFiles/cmTC_fd91b.dir/CheckSymbolExists.c.o
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc    -Werror   -o CMakeFiles/cmTC_fd91b.dir/CheckSymbolExists.c.o   -c /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_fd91b.js
+/usr/local/Cellar/cmake/3.6.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fd91b.dir/link.txt --verbose=1
+/Users/csvoss/Repositories/emsdk-portable/emscripten/1.37.34/emcc   -Werror    @CMakeFiles/cmTC_fd91b.dir/objects1.rsp  -o cmTC_fd91b.js  
+
+File /Users/csvoss/Repositories/biosynthesis/emscripten-experiment/openbabel/embuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
